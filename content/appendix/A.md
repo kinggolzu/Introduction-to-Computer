@@ -150,9 +150,9 @@ int main()
 
 行内公式：
 
-` $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ `
+` $ \Gamma(n) = (n-1)!\quad\forall n\in\mathbb N $ `
 
-$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+$$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$$
 
 
 ###### 5.行间公式
@@ -163,7 +163,7 @@ $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
 
 `$$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$`
 
-$$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+$$x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 
 
@@ -175,7 +175,7 @@ $$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 `$$x^{y^z}=(1+e^x)^{-2xy^w}$$`
 
-$$ x^{y^z}=(1+e^x)^{-2xy^w} $$
+$$x^{y^z}=(1+e^x)^{-2xy^w}$$
 
 
 
@@ -319,9 +319,9 @@ $$\left. \frac{du}{dx} \right| _{x=0}$$
 
 按照如下格式输入，可以生成相应的式子。
 
-`$$\sqrt{x^3}　和　\sqrt[3]{\frac xy}$$`
+`$$\sqrt{x^3}$$　和　$$\sqrt[3]{\frac xy}$$`
 
-$$\sqrt{x^3}　和　\sqrt[3]{\frac xy}$$
+$$\sqrt{x^3}$$　和　$$\sqrt[3]{\frac xy}$$
 
 
 
