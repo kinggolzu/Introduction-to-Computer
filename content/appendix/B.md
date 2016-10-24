@@ -1,6 +1,6 @@
 # 作业提交帮助 #
 
-1. 准备阶段
+1. 准备阶段（准备阶段只需要完成一次即可）
     1. 下载并安装 Markdown 编辑器：[Markdown Pad](http://www.markdownpad.com/download.html "Markdown Pad")
     2. 打开 Markdown Pad ，进入 Tools->Options，在弹出窗口的下方的“Language”部分选择“中文（中华人民共和国）”，然后点击“保存并关闭”，最后关闭 Markdown Pad
     3. 进入本课程的在线仓库：[https://github.com/kinggolzu/Introduction-to-Computer](https://github.com/kinggolzu/Introduction-to-Computer)
