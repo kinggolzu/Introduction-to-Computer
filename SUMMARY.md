@@ -5,3 +5,4 @@
 * 二、[机器人开发环境和VPL入门](/content/chapter2/index.md)
 * [附录](/content/appendix/index.md)
   * [附录A:Markdown 使用教程](/content/appendix/A.md)
+  * [附录B:作业提交帮助](/content/appendix/B.md)
