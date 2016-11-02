@@ -11,6 +11,8 @@
     5. 如果出现“Sign in to GitHub”页面则使用 GitHub 账号登录后重新点击“Fork”，如果在页面左上角如下图所示则说明 Fork 成功
     
         ![](/assets/images/appendix/B/fork-success.png)
+        
+    6. 注意啦！**如果你发现你的仓库里面比老师的仓库里面东西少了那么请删掉你自己的仓库，然后重新 fork 老师的仓库**
 
 2. 编写阶段
     1. 打开 Markdown Pad 
