@@ -20,10 +20,20 @@
 
 	* 安装说明
 
+		<iframe frameborder="0" width="100%" height="498px" src="//v.qq.com/iframe/player.html?vid=w0346ntmdyb&tiny=0&auto=0" allowfullscreen></iframe>
+
 	* Hello world
+
+		<iframe frameborder="0" width="100%" height="498px" src="//v.qq.com/iframe/player.html?vid=d0346grj6fs&tiny=0&auto=0" allowfullscreen></iframe>
 
 	* Input Output
 
+		<iframe frameborder="0" width="100%" height="498px" src="//v.qq.com/iframe/player.html?vid=g0346m5w60x&tiny=0&auto=0" allowfullscreen></iframe>
+
 	* Simple Counter
 
+		<iframe frameborder="0" width="100%" height="498px" src="//v.qq.com/iframe/player.html?vid=o0346ar9fd1&tiny=0&auto=0" allowfullscreen></iframe>
+
 	* Robot	
+
+		<iframe frameborder="0" width="100%" height="498px" src="//v.qq.com/iframe/player.html?vid=z0346v7nt97&tiny=0&auto=0" allowfullscreen></iframe>
