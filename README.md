@@ -1,9 +1,6 @@
 兰州大学 计算机导论课程
 ---
 
-# 课件
-[第一章 GitHub和GitBook](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/计算机导论-GitHub&GitBook.pptx?raw=true)
-
 # 授课对象
 榆中校区本科生
 
