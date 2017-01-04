@@ -1,6 +1,6 @@
-1. 项目报告
-2. 项目介绍PPT
-3. 程序源代码
+1. [项目报告](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group7/report.docx?raw=true)
+2. [项目介绍PPT](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group7/slide.pptx?raw=true)
+3. [程序源代码](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group7/source.xml?raw=true)
 3. 成果展示视频
 	
 	第一次尝试
