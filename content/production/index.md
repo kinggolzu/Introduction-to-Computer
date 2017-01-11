@@ -1,8 +1,8 @@
 2016年秋季学期学生成果展示
 ---
 
-<link rel="stylesheet" href="/assets/libs/material.min.css">
-<script src="/assets/libs/material.min.js"></script>
+<link rel="stylesheet" href="https://ohlnr9762.qnssl.com/material.min.css">
+<script src="https://ohlnr9762.qnssl.com/material.min.js"></script>
 <link rel="stylesheet" href="https://fonts.lug.ustc.edu.cn/icon?family=Material+Icons">
 
 <div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
@@ -27,7 +27,7 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=v036264euhi&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('/content/production/2016/group1/group1-2.png') center / cover;">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group1/group1-2.png') center / cover;">
                 <div class="mdl-card__title mdl-card--expand"></div>
                 <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                     <span style="color: #fff;font-size: 14px;font-weight: 500;">成果</span>
@@ -45,37 +45,37 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=x0362uk1kh1&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group2/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group2/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group2/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group2/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group2/3.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group2/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group2/4.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group2/4.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group2/5.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group2/5.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group2/6.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group2/6.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
@@ -104,13 +104,13 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=y036279re1u&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('/content/production/2016/group4/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group4/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('/content/production/2016/group4/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group4/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
@@ -128,19 +128,19 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=y0362ls6qln&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group5/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group5/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group5/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group5/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group5/3.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group5/3.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
@@ -158,7 +158,7 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=q03622k0o2n&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('/content/production/2016/group6/1.jpg') center / cover;">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group6/1.jpg') center / cover;">
                 <div class="mdl-card__title mdl-card--expand"></div>
                 <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                     <span style="color: #fff;font-size: 14px;font-weight: 500;">成果</span>
@@ -180,7 +180,7 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=f0362404jvp&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('/content/production/2016/group7/1.jpg') center / cover;">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group7/1.jpg') center / cover;">
                 <div class="mdl-card__title mdl-card--expand"></div>
                 <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                     <span style="color: #fff;font-size: 14px;font-weight: 500;">成果</span>
@@ -210,31 +210,31 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=s0362cfwnta&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group9/1.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group9/1.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group9/2.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group9/2.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group9/3.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group9/3.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group9/4.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group9/4.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('/content/production/2016/group9/5.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 200px;height: 200px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group9/5.jpeg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
@@ -252,13 +252,13 @@
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=g0362ff7weg&tiny=0&auto=0" allowfullscreen></iframe>
         </li>
         <li style="margin-top: 10px"><p>团队及成果照片</p>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('/content/production/2016/group10/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group10/1.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
               </div>
           </div>
-          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('/content/production/2016/group10/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
+          <div class="mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px;background: url('https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group10/2.jpg') center / cover;float: left;margin-left: 10px;margin-top: 10px">
               <div class="mdl-card__title mdl-card--expand"></div>
               <div class="mdl-card__actions" style="height: 52px;padding: 16px;background: rgba(0, 0, 0, 0.2);">
                   <span style="color: #fff;font-size: 14px;font-weight: 500;">成果&团队</span>
