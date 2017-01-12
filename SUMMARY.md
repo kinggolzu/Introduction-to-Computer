@@ -30,4 +30,3 @@
         * [Pencil Code](/content/appendix/pencilcode.md)
         * [VIPLE 使用教程](/content/appendix/viple.md)
 * [学生成果](/content/production/index.md)
-    * [第一组](/content/production/group1.md)
