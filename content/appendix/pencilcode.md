@@ -4,20 +4,46 @@
 
 	<iframe frameborder="0" width="100%" height="498px" src="//v.qq.com/iframe/player.html?vid=b03461u6hzj&tiny=0&auto=0" allowfullscreen></iframe>
 
-	[视频配套PPT](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/quickstart.pptx?raw=true)
+	<iframe  style="width: 100%; height: 564px"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4563 frameborder=0 allowfullscreen></iframe>
 
 2. 基础教程PPT
 
-	* [第一章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter1.pptx?raw=true)
-	* [第二章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter2.pptx?raw=true)
-	* [第三章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter3.pptx?raw=true)
-	* [第四章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter4.pptx?raw=true)
-	* [第五章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter5.pptx?raw=true)
-	* [第六章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter6.pptx?raw=true)
-	* [第七章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter7.pptx?raw=true)
-	* [第八章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter8.pptx?raw=true)
-	* [第九章](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/chapter9.pptx?raw=true)
+	* 第一章
+
+		<iframe  style="width: 100%; height: 564px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4564 frameborder=0 allowfullscreen></iframe>
+
+	* 第二章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4565 frameborder=0 allowfullscreen></iframe>
+
+	* 第三章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4566 frameborder=0 allowfullscreen></iframe>
+
+	* 第四章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4567 frameborder=0 allowfullscreen></iframe>
+
+	* 第五章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4569 frameborder=0 allowfullscreen></iframe>
+
+	* 第六章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4570 frameborder=0 allowfullscreen></iframe>
+
+	* 第七章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4572 frameborder=0 allowfullscreen></iframe>
+
+	* 第八章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4575 frameborder=0 allowfullscreen></iframe>
+
+	* 第九章
+
+		<iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4578 frameborder=0 allowfullscreen></iframe>
 
 3. Pencil Code 案例
 	
-	[案例](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/PencilCode/pencilcode.pdf?raw=true)
+	<iframe  style="width: 100%; height: 1160px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4579 frameborder=0 allowfullscreen></iframe>
