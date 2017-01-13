@@ -23,7 +23,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group1/report.docx?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group1/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-          <iframe  style="width: 100%; min-height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4547 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/xie-qirong/0fc20fc4-f2ba-4d2e-b706-31fd769aee11" title="第一组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第一组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/xie-qirong" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-7873-6581-9990-001361973562%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="378px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=v036264euhi&tiny=0&auto=0" allowfullscreen></iframe>
@@ -43,7 +43,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group2/report.docx?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group2/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-        <iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4554 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/cheerx/7dad571c-4cf3-4a82-b1c1-33227b8838fe" title="第二组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第二组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/cheerx" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-7484-7642-1570-001023448760%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="491px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=x0362uk1kh1&tiny=0&auto=0" allowfullscreen></iframe>
@@ -104,7 +104,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group4/report.docx?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group4/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-          <iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4555 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/cheerx/7ad48e89-7ec1-43a1-a992-cd42352ddf50" title="第四组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第四组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/cheerx" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-7297-9481-4970-000096735468%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="491px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=y036279re1u&tiny=0&auto=0" allowfullscreen></iframe>
@@ -130,7 +130,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/raw/master/content/production/2016/group5/report.pdf" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group5/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-          <iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4556 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/cheerx/f7d74471-ec5d-47a3-91f6-8681018be47b" title="第五组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第五组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/cheerx" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-7164-0213-9440-000102651315%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="378px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=y0362ls6qln&tiny=0&auto=0" allowfullscreen></iframe>
@@ -162,7 +162,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group6/report.docx?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group6/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-          <iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4557 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/cheerx/0715669f-ad62-494d-a554-1a4b6189716a" title="第六组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第六组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/cheerx" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-7043-6192-3870-001954770274%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="491px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=q03622k0o2n&tiny=0&auto=0" allowfullscreen></iframe>
@@ -182,7 +182,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group7/report.docx?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group7/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-          <iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4558 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/cheerx/17ecfafe-57b8-4e29-9535-33b97ea4457a" title="第七组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第七组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/cheerx" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-6981-9257-1830-001927514893%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="491px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <p style="font-style: italic; font-size: 12px;line-height: 14px">第一次尝试</p>
@@ -206,7 +206,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group8/report.docx?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group8/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-          <iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4559 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/cheerx/a0b969ee-3558-48f5-b7e2-55c91df14ac2" title="第八组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第八组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/cheerx" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-6925-1580-9710-000297398089%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="378px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=f03623cnblg&tiny=0&auto=0" allowfullscreen></iframe>
@@ -262,7 +262,7 @@
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group10/report.docx?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">项目报告</a></li>
         <li style="margin-top: 10px"><a href="https://github.com/kinggolzu/Introduction-to-Computer/blob/master/content/production/2016/group10/source.xml?raw=true" class="mdl-button mdl-js-button mdl-js-ripple-effect">程序源代码</a></li>
         <li style="margin-top: 10px"><p>项目介绍PPT</p>
-          <iframe  style="width: 100%; height: 700px;"  src=https://www.pptplus.cn/index.php?g=Site&m=Genericcode&a=detail&id=4560 frameborder=0 allowfullscreen></iframe>
+          <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/cheerx/5a062642-0f48-47fa-ae13-3013dd99d474" title="第十组" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none; margin-left:18px ">第十组</a><span style="font-family: 'Segoe UI'; font-size: 13px ">—</span><a href="https://docs.com/cheerx" target="_blank" style="font-family: 'Segoe UI'; font-size: 13px; text-decoration: none ">Xie Qirong</a></div><iframe src="https://docs.com/d/embed/D25191802-6827-8451-3100-001911241710%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="378px" style="max-width:100%" allowfullscreen="True"></iframe>
         </li>
         <li style="margin-top: 10px"><p>成果展示视频</p>
           <iframe frameborder="0" width="640" height="365" src="https://v.qq.com/iframe/player.html?vid=g0362ff7weg&tiny=0&auto=0" allowfullscreen></iframe>

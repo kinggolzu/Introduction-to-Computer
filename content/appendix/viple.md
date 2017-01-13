@@ -16,7 +16,9 @@
 
 2. 教学视频
 
-	[VIPLE 配套PPT](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/Viple.pptx?raw=true)
+	VIPLE 配套PPT
+
+	<iframe src="https://docs.com/d/embed/D25191802-5487-4341-8600-001926590164%7eM0da634d7-0c08-a704-2a3e-0d4e71145789" frameborder="0" scrolling="no" width="608px" height="378px" style="max-width:100%" allowfullscreen="False"></iframe>
 
 	* 安装说明
 
