@@ -1,4 +1,4 @@
-## 第一章 GitHub和GitBook How to
+## 第七章 GitHub和GitBook How to
 
 本章包含的内容：
 
