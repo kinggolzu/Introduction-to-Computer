@@ -2,6 +2,7 @@
 
 * [课程简介](README.md)
 * [课程结构与大纲](ke-cheng-jie-gou-yu-da-gang.md)
+* [第一部分 计算机基础](ji-suan-ji-ji-chu.md)
 * [一、为什么学习计算机](/content/chapter1.md)
 * [二、计算思维的本质--抽象](/content/chapter2.md)
 * [专题1 什么是可计算的](/content/feature1.md)
@@ -30,5 +31,5 @@
   * [附录C：课程相关学习资料](/content/appendix/C.md)
     * [Pencil Code](/content/appendix/pencilcode.md)
     * [VIPLE 使用教程](/content/appendix/viple.md)
-* [学生成果](/content/production/index.md)
+* 计算机基础
 
