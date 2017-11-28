@@ -4,6 +4,7 @@
 * [课程结构与大纲](ke-cheng-jie-gou-yu-da-gang.md)
 * [第一部分 计算机基础](ji-suan-ji-ji-chu.md)
   * [1.为什么学习计算机](ji-suan-ji-ji-chu/1wei-shi-yao-xue-xi-ji-suan-ji.md)
+  * [2.计算思维的本质](ji-suan-ji-ji-chu/ji-suan-si-wei-de-ben-zhi.md)
 * [一、为什么学习计算机](/content/chapter1.md)
 * [二、计算思维的本质--抽象](/content/chapter2.md)
 * [专题1 什么是可计算的](/content/feature1.md)
