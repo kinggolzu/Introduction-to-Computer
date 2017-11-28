@@ -8,11 +8,7 @@
   * [3.现代计算机](ji-suan-ji-ji-chu/xian-dai-ji-suan-ji.md)
   * [4.数制](ji-suan-ji-ji-chu/4shu-zhi.md)
   * [5.计算机如何实现计算](ji-suan-ji-ji-chu/5ji-suan-ji-ru-he-shi-xian-ji-suan.md)
-  * 6.原码反码和补码
-* [三、现代计算机](/content/chapter3.md)
-* [四、数制](/content/chapter4.md)
-* [五、计算机如何实现计算](/content/chapter5.md)
-* [六、原码反码和补码](/content/chapter6.md)
+  * [6.原码反码和补码](ji-suan-ji-ji-chu/6yuan-ma-fan-ma-he-bu-ma.md)
 * [七、GitHub和GitBook How to](/content/chapter7/index.md)
   * [1.1 Git](/content/chapter7/7.1.md)
   * [1.2 GitHub](/content/chapter7/7.2.md)
