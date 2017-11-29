@@ -9,9 +9,9 @@
 
 ## 本章内容如下：（我们以写书为例）
 1.Git、Github、Gitbook介绍<br>
-&emsp;&emsp;大家需要了解这三部分的内容，以及他们之间的关系。
+&emsp;&emsp;大家需要了解这三部分的内容，以及他们之间的关系。<br>
 2.Markdown语法简单介绍<br>
-&emsp;&emsp;Markdown是一种文本编辑语言，可以很好的融合html，语法简单，是Gitbook编辑文档所用的语言。
+&emsp;&emsp;Markdown是一种文本编辑语言，可以很好的融合html，语法简单，是Gitbook编辑文档所用的语言。<br>
 3.实验部分<br>
 （1）Github与Gitbook的连接<br>
 （2）拷贝别人的仓库，为己所用，修改后合并<br>
