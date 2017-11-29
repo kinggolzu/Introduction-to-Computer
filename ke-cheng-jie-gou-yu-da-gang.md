@@ -101,7 +101,7 @@
 （2）掌握Github的注册，会使用Github客户端，会fork和pull request等基本操作。<br>
 （3）掌握Gitbook的注册，书籍的创建、修改以及基本的markdown语法。<br>
 （4）理解Git、Github、Gitbook 三者之间的关系。Git负责版本控制，Github是代码和框架的托管平台，Gitbook用来编撰书籍。
-2．教学重点：掌握利用Github和Gitbook创建教程的整个流程和步骤。
+2．教学重点：掌握利用Github和Gitbook创建教程的整个流程和步骤，版本控制。
 3．教学难点：Git的操作、Github的使用。<br>
 
 （三）Pencil Code<br>
