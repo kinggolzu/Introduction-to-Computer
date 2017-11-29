@@ -9,8 +9,8 @@
   * [4.数制](ji-suan-ji-ji-chu/4shu-zhi.md)
   * [5.计算机如何实现计算](ji-suan-ji-ji-chu/5ji-suan-ji-ru-he-shi-xian-ji-suan.md)
   * [6.原码反码和补码](ji-suan-ji-ji-chu/6yuan-ma-fan-ma-he-bu-ma.md)
-* [七、GitHub和GitBook How to](/content/chapter7/index.md)
-  * [1.1 Git](/content/chapter7/7.1.md)
+* [第二部分 GitHub和Gitbook](/content/chapter7/index.md)
+  * [1.Git、Github、Gitbook介绍](/content/chapter7/7.1.md)
   * [1.2 GitHub](/content/chapter7/7.2.md)
   * [1.3 GitBook](/content/chapter7/7.3.md)
   * [1.4 Git,GitHub和GitBook三者的关系与异同](/content/chapter7/7.4.md)
@@ -29,5 +29,5 @@
   * [附录C：课程相关学习资料](/content/appendix/C.md)
     * [Pencil Code](/content/appendix/pencilcode.md)
     * [VIPLE 使用教程](/content/appendix/viple.md)
-* 计算机基础
+* [计算机基础](ji-suan-ji-ji-chu.md)
 
