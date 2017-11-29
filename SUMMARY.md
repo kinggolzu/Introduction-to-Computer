@@ -16,7 +16,7 @@
 * [第三部分 Pencil Code及其实验](/content/chapter8/index.md)
   * [1.Pencil Code基础](/content/chapter8/8.1.md)
   * [2.Pencil Code点和线](/content/chapter8/8.2.md)
-  * [2.3 计算机的基本组成](/content/chapter8/8.3.md)
+  * [3.输入输出](/content/chapter8/8.3.md)
   * [2.4 Pencil Code基础](/content/chapter8/8.4.md)
 * [第四部分 机器人与传感器](/content/chapter9/index.md)
   * [3.1 传感器和执行器](/content/chapter9/9.1.md)
