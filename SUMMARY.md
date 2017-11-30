@@ -25,8 +25,9 @@
   * [9.Pencil Code数组与循环](content/chapter8/9pencil-codeshu-zu-yu-xun-huan.md)
 * [第四部分 机器人与传感器](/content/chapter9/index.md)
   * [1.机器人与传感器的基础知识](content/chapter9/index/1ji-qi-ren-yu-chuan-gan-qi-de-ji-chu-zhi-shi.md)
-* [3.1 传感器和执行器](/content/chapter9/9.1.md)
-* [课外拓展](/content/appendix/index.md)
+  * [2.实践部分-小车拼装](content/chapter9/index/2shi-jian-bu-5206-xiao-che-pin-zhuang.md)
+  * 3.迷宫大赛开始了
+* [第五部分 课外拓展](/content/appendix/index.md)
   * [附录A:Markdown 使用教程](/content/appendix/A.md)
   * [附录B:作业提交帮助](/content/appendix/B.md)
   * [附录C：VIPLE 使用教程](/content/appendix/viple.md)
