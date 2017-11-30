@@ -27,11 +27,8 @@
   * [3.1 传感器和执行器](/content/chapter9/9.1.md)
   * [3.2 NXT智能块](/content/chapter9/9.2.md)
   * [3.3 蓝牙连接](/content/chapter9/9.3.md)
-* [附录](/content/appendix/index.md)
+* [课外拓展](/content/appendix/index.md)
   * [附录A:Markdown 使用教程](/content/appendix/A.md)
   * [附录B:作业提交帮助](/content/appendix/B.md)
-  * [附录C：课程相关学习资料](/content/appendix/C.md)
-    * [Pencil Code](/content/appendix/pencilcode.md)
-    * [VIPLE 使用教程](/content/appendix/viple.md)
-* [计算机基础](ji-suan-ji-ji-chu.md)
+  * [附录C：VIPLE 使用教程](/content/appendix/viple.md)
 
