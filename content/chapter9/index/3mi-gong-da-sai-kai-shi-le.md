@@ -21,14 +21,12 @@
 
 #### 比赛示例参考
 
-#### 比赛代码参考
-由于传感器安装位置不同，所以每辆小车算法都不尽相同，大家只有自己进行调试，才能找出适合自己组小车的最优算法，本算法只供参考哦。
-<center><img src="/assets/robot.png"/></center>
-
 #### 比赛开始了，看看师兄师姐们的优秀成果！
 
 #### 优秀答辩PPT
+
 <center><img src="/assets/f1.png"/></center>
+
 <center><img src="/assets/f2.png"/></center>
 <center><img src="/assets/f3.png"/></center>
 <center><img src="/assets/f4.png"/></center>
