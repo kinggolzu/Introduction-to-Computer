@@ -4,7 +4,7 @@
 &emsp;&emsp;底座及其连接器x4、锂电池x1、电池充电器x1、主轮x2、辅助轮x1、电 机x2、亚历克板x1、超声波传感器x2、超声波传感器支架x2（配套螺丝）、 NVIDIA开发板x1、Arduino Sensor Shield v5.0 x1、VNH5019 x1、Arduino Mega 2560及其USB数据线 x1、六边形螺丝刀x2、电路开关 x1、电路一套、螺丝一袋、串口线20根。各小组要明确分工，有序组装，螺丝稀缺，不能出现人多手杂弄丢元件的情况。
 ### 二、安装步骤
 1.安装底座，取**8颗短螺丝及颗长螺丝**、4根底座及连接器。先将一个连接器与一根底座按图1方式连接，注意！**底座边角锋利，注意不要割伤或者碰到别人**：
-<center><img src="/assets/d1.png"/ style="height=200px;width=300px"></center>
+<center><img src="/assets/d1.png"/></center>
 
 再将第二根底座与该连接器连接，如下图所示：
 <center><img src="/assets/d2.png"/></center>
