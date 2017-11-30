@@ -11,9 +11,10 @@
 <center><img src="/assets/p3.jpg"/></center>
 
 #### 3.我们会有小组的总结和答辩，来阐述大家在拼装和调试过程中遇到的问题以及收获，并和大家进行分享
+
 <center><img src="/assets/s3.png"/></center>
 
 #### 4.我们会提供往届师兄师姐的比赛视频，是不是在学习的过程中也是乐趣无穷呢？
 
-<center><img src="/assets/s4.png"/></center>
+<center><img src="/assets/d13.png"/></center>
 
