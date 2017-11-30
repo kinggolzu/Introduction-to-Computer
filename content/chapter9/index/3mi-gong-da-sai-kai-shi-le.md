@@ -23,6 +23,8 @@
 
 #### 比赛开始了，看看师兄师姐们的优秀成果！
 
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=v05120ppgx6&tiny=0&auto=0" allowfullscreen></iframe>
+
 #### 优秀答辩PPT
 
 <center><img src="/assets/f1.png"/></center>
