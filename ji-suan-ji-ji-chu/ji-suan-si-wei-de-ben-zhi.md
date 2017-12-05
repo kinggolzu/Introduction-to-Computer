@@ -39,3 +39,6 @@
 课件下载：[专题1 什么是可计算的](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/4.专题1-什么是可计算的.pptx?raw=true)
 
 课件下载：[专题2-图灵机工作原理](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/5.专题2-图灵机工作原理.pptx?raw=true)
+
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

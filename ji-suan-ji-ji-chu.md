@@ -30,5 +30,7 @@
 （2）正数和负数的原码反码补码的区别<br>
 （3）模和溢出的概念<br>
 
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+
 
 

@@ -131,4 +131,5 @@
 2．大学计算机基础 龚沛曾，杨志强主编 高等教育出版社 2009<br>
 3．C程序设计语言 Brian W.Kernighan,Dennis M.Ritchie 著 机械工业出版社<br>
 5．Pencil Code官方文档<br>
-<p style="text-align: right;">联系方式：周庆国，<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

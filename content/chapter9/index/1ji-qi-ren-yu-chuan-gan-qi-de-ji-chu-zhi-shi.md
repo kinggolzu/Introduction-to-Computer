@@ -160,3 +160,5 @@ http://www.data321.com/biancheng/20160513361/ShiJianQuDongBianChengShiYiGeShou
 可参考相关论文:
 http://www.docin.com/p-1279163758.html
 
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

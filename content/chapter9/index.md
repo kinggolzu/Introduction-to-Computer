@@ -18,3 +18,5 @@
 
 <center><img src="/assets/d13.png"/></center>
 
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

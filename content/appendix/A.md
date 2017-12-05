@@ -428,3 +428,5 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 
 
  到这里，Markdown 的基本语法在日常的使用中基本就没什么大问题了，只要多加练习，配合好用的工具，写起东西来肯定会行云流水。
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

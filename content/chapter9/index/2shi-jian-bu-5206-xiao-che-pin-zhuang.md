@@ -40,3 +40,5 @@
 <center><img src="/assets/d12.png"/></center>
 
 **其他注意事项：确保 NVIDIA 和 Arduino 已经通过 USB 线连接后再通电； 连接电路时千万不能使电路短路；小车启动后的无线网络名为：Blockly_编号，如5号车为Blockly_5，所有小 车IP 均为：10.42.0.1，TCP端口均为 8080；初次安装完成后可能出现电机反转的情况，交换其电源线的顺序即可，请自行测试；安装完成后先不要通电，等待我们检查后方可接通电源**
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

@@ -17,3 +17,5 @@
 ![](/assets/p104.png)
 
 课件下载：[四、数制](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/7.数制.pptx?raw=true)
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

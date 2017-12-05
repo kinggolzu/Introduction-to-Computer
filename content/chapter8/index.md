@@ -9,3 +9,5 @@
 #### 1.Pencil Code简单易学，贴近javascript和python语法，包含了编程语言最基础的知识点。
 #### 2.Pencil Code是模块儿化编程，学习有趣不枯燥。
 #### 3.为我们接下来学习小车机器人的编程打下基础。
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

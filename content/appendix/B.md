@@ -51,3 +51,5 @@
 ## Tips! ##
 
 有任何问题请大家到 [Discussion](https://www.gitbook.com/book/kinggolzu/introduction-to-computer/discussions) 来提问，作业不会做也可以来问哦。
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+

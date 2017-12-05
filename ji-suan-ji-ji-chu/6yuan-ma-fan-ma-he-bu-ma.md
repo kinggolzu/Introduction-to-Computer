@@ -14,5 +14,7 @@
 
 课件下载：[六、原码反码和补码](https://github.com/kinggolzu/Introduction-to-Computer/blob/master/courseware/9.原码反码和补码.pptx?raw=true)
 
+<p style="text-align: right;">联系方式：周庆国,<img src="/assets/biaozhi.png" style="width: 15px;height: 15px;">zhouqg@lzu.edu.cn<p>
+
 
 
